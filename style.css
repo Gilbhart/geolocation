@@ -1,0 +1,19 @@
+div.background{
+    background-color: cadetblue;
+    height:700px;
+    width:700px;
+    display: flex;
+    justify-content: center;
+}
+div.container {
+    display:table-cell;
+    padding: 20px;
+    margin: auto auto;
+    border: 1px solid;
+    background-color: azure;
+    height: 260px;
+    width: 260px;
+    display: table-cell;}
+
+div.txt-center {
+    text-align:center;}
